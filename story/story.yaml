@@ -1,0 +1,32 @@
+Introduction:
+  - cat says normal: \...
+  - cat says: \......
+  - cat says: ...这里是？
+  - \??? says: ...醒...醒醒......
+  - choice:
+    - 这里是哪里？
+    - 喵喵喵喵喵？
+  - show jun: FADE
+  - show background: FADE
+  - \??? says: ...你是？
+  - choice:
+    - 喵~向您介绍, 现在站在你面前的...
+    - 是宇宙无敌神勇飞喵号宇宙飞船船长！喵喵！
+  - \??? says: 噢！所以就是，猫对吧？
+  - \??? says: 而且还会说话？！
+  - choice:
+    - ...是，没错啦！:
+    - 喵喵~:
+  - jun says: 会说人话，那就好办了！
+  - jun says: 你可以叫我文店长。
+  - jun says: 我家咖啡店被你的飞船砸了。
+  - choice: 
+    - 是飞喵号，喵！
+  - jun says: 那飞喵号船长，你想要怎么赔偿呢？
+  - choice:
+    - 你放心喵，本船长一定会赔偿的
+    - 只要等我的飞船修复完毕，重返喵星！
+  - jun says: 噢！所以……？
+  - choice:
+    - 我要修飞船，喵！
+  - jun says: 那巧了，来打工吧。
